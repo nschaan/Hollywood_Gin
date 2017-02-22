@@ -1,5 +1,5 @@
 Type=Desktop
-RBProjectVersion=2015.041
+RBProjectVersion=2016.041
 MinIDEVersion=20070100
 Class=App;App.xojo_code;&h1DDA27FF;&h0;false
 Window=Window1;Window1.xojo_window;&h6E98FFFF;&h0;false
@@ -36,5 +36,7 @@ OSXBundleID=com.launchpadllc.hollywoodscorepad
 DebuggerCommandLine=
 UseGDIPlus=False
 UseBuildsFolder=True
+CopyRedistNextToWindowsEXE=False
 IsWebProject=False
 LinuxBuildArchitecture=2
+OptimizationLevel=0
